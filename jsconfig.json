@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "paths": {
+            "@collective/volto-sentry": [
+                "addons/volto-sentry/src"
+            ]
+        },
+        "baseUrl": "src"
+    }
+}

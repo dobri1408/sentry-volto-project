@@ -1,0 +1,10 @@
+{
+  "volto-sentry": {
+    "url": "git@github.com:collective/volto-sentry.git",
+    "https": "https://github.com/collective/volto-sentry.git",
+    "package": "@collective/volto-sentry",
+    "branch": "main",
+    "develop": true,
+    "path": "src"
+  }
+}
